@@ -1,0 +1,9 @@
+target 'XQTestZero' do
+  use_frameworks!
+
+pod 'XQTestTool', :path => '../XQTestTool'
+pod 'XQTestResource', :path => '../XQTestResource'
+pod 'XQTestStaticResource', :path => '../XQTestStaticResource'
+
+
+end
